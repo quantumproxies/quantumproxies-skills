@@ -1,0 +1,23 @@
+{
+  "name": "quantumproxies",
+  "version": "1.0.0",
+  "description": "Agent Skills for QuantumProxies.io: proxies, web scraping, search, crawling, Collectors and datasets for Claude, Codex, Cursor and any agent that reads SKILL.md.",
+  "author": {
+    "name": "QuantumProxies.io",
+    "url": "https://quantumproxies.io/"
+  },
+  "homepage": "https://quantumproxies.io/mcp-server/",
+  "repository": "https://github.com/quantumproxies/quantumproxies-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "skills",
+    "web-scraping",
+    "serp",
+    "crawl",
+    "proxies",
+    "collectors",
+    "datasets",
+    "mcp"
+  ]
+}

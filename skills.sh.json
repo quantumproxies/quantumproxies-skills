@@ -1,0 +1,23 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.json",
+  "groupings": [
+    {
+      "title": "Platform",
+      "description": "How to authenticate and connect: REST API and MCP server.",
+      "skills": [
+        "use-data-api",
+        "use-mcp-server"
+      ]
+    },
+    {
+      "title": "Web data",
+      "description": "What to do with it: pages, proxies, business leads.",
+      "skills": [
+        "scrape-to-markdown",
+        "generate-proxies",
+        "find-business-leads"
+      ]
+    }
+  ],
+  "notGrouped": "bottom"
+}
